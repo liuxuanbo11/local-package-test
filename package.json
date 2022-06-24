@@ -23,7 +23,8 @@
       "release": true
     },
     "npm": {
-      "publish": false
+      "publish": false,
+      "tagName": "odd"
     }
   },
   "devDependencies": {
