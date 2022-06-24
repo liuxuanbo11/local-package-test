@@ -1,6 +1,6 @@
 {
   "name": "local-package-test",
-  "version": "1.2.24",
+  "version": "1.2.25",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -23,8 +23,7 @@
       "release": true
     },
     "npm": {
-      "publish": true,
-      "tagName": "odd"
+      "publish": true
     }
   },
   "devDependencies": {
